@@ -1,0 +1,44 @@
+# IDE
+/node_modules/
+/vendor/
+.env*
+.budfiles
+composer.lock
+package-lock.json
+yarn.lock
+npm-debug.log
+yarn-error.log
+.idea
+.DS_Store
+nginx.conf
+
+# Wordpress Core
+/wp-content/themes/twentytwentyfour
+/wp-content/themes/twentytwentythree
+/wp-content/themes/twentytwentytwo
+/wp-content/themes/index.php
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/plugins
+/wp-content/cache
+/wp-content/config
+/wp-content/index.php
+/wp-content/languages
+/wp-content/logs
+/wp-content/updraft
+/wp-content/db.php
+/wp-admin/
+/wp-includes/
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+/readme.html
+/license.txt
+/*.php
+
+# Nasz Gabinet Theme
+/wp-content/themes/wp-sage-theme/node_modules/
+/wp-content/themes/wp-sage-theme/vendor/
+/wp-content/themes/wp-sage-theme/public/
